@@ -1,0 +1,140 @@
+body {
+    background-color: #E5B2AD;
+    margin: 0px;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    color: #403130;
+    margin-left: 40px;
+    top: 30px;
+    left: 40px;
+    position: absolute;
+    z-index: 2;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    color: #403130;
+    margin-left: 40px;
+    z-index: 2;
+    top: 113px;
+    left: 40px;
+    position: absolute;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    color: #403130;
+    z-index: 2;
+    padding: 1%;
+    margin-top: 5%;
+    left: 80px;
+
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+    color: #403130;
+    z-index: 4;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 15px;
+}
+
+li {
+    display: inline;
+    margin: 200px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+}
+
+a {
+    color: #FFC6C0;
+
+}
+
+li a:hover {
+    background-color: #403130;
+}
+
+#nav-bar {
+    height: 50px;
+    top: 0px;
+    position: fixed;
+    width: 100%;
+    background-color: #7F6360;
+    z-index: 4;
+}
+
+.experiences {
+    background-color: #7F6360;
+    padding: 1%;
+    margin: 5% 0% 0% 0%;
+    width: 40%;
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    opacity: 1;
+    z-index: 3;
+}
+
+#photos {
+    background-color: #7F6360;
+    padding: 1%;
+    margin: 5% 0% 0% 0%;
+    width: 40%;
+    position: absolute;
+    top: 200px;
+    right: 80px;
+    height: 100%;
+    opacity: 1;
+    z-index: 3;
+}
+
+#photo-1 {
+    background-color: #FFC6C0;
+    padding: 1%;
+    margin: 2%;
+    padding-top: 0.2%;
+    padding-right: 15px;
+    height: 100%;
+}
+
+#poetry {
+    background-color: #FFC6C0;
+    padding: 1%;
+    margin: 2%;
+    padding-top: 0.2%;
+    padding-left: 15px;
+    height: 260px;
+
+}
+
+#service {
+    background-color: #FFC6C0;
+    padding: 1%;
+    margin: 2%;
+    padding-top: 0.2%;
+    padding-left: 15px;
+    height: 260px;
+
+}
+
+#app {
+    background-color: #FFC6C0;
+    padding: 1%;
+    margin: 2%;
+    padding-top: 0.2%;
+    padding-left: 15px;
+    height: 260px;
+
+}
